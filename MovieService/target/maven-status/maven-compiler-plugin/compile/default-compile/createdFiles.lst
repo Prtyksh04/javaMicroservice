@@ -1,0 +1,9 @@
+com\ncu\college\movie\repository\MovieRepository.class
+com\ncu\college\movie\controller\MovieController.class
+com\ncu\college\movie\config\ApplicationConfig.class
+com\ncu\college\movie\repository\MovieRowMapper.class
+com\ncu\college\movie\service\MovieService.class
+com\ncu\college\movie\model\Movie.class
+com\ncu\college\movie\dto\MovieDto.class
+com\ncu\college\movie\irepository\IMovieRepository.class
+com\ncu\college\movie\MovieServiceApplication.class

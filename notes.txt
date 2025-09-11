@@ -1,0 +1,7 @@
+1) model could be internal to our code , can have more info and properties 
+2) dto object is what we receive in the request or what we return to the caller , has only info we want to show the user
+
+3) contoller -> service -> repository -> db
+
+4) to inject a class into another class that needs to be bean class
+Spring bean is a class managed by spring framework its construction and destruction
