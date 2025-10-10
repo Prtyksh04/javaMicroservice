@@ -17,7 +17,7 @@ public class BookingService {
     private final ModelMapper modelMapper;
 
     @Autowired
-    public BookingService(IBookingRepository bookingRepository, ModelMapper modelMapper , RestClient.Builder restClientBuilder) {
+    public BookingService(IBookingRepository bookingRepository, ModelMapper modelMapper) {
         this.bookingRepository = bookingRepository;
         this.modelMapper = modelMapper;
     }
